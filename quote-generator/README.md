@@ -3,7 +3,7 @@
 A sleek, responsive web application that generates inspirational quotes with dynamic background color transitions.
 
 ## 🚀 Live Demo
-[Click here to view the live project](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
+[Click here to view the live project](https://developer-aisurya.github.io/My-Web-Projects/quote-generator/index.html)
 
 ## 📸 Preview
 ![Project Screenshot](preview.png)
