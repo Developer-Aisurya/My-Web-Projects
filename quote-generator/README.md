@@ -6,7 +6,7 @@ A sleek, responsive web application that generates inspirational quotes with dyn
 [Click here to view the live project](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
 
 ## 📸 Preview
-![Project Screenshot](./quote-generator/preview.png)
+![Project Screenshot](preview.png)
 
 ## ✨ Features
 - **Dynamic Quotes:** Pulls famous quotes from a curated list.
