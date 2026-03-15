@@ -9,7 +9,8 @@ body {
   width: 100vw;
   background-color: #e9edc9;
   text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  overflow-x: hidden;
 }
 
 .flex {
@@ -20,16 +21,21 @@ body {
 }
 
 #quoteBox {
-  height: 200px;
-  width: 350px;
+  min-height: 200px; /* Changed height to min-height for longer quotes */
+  width: 90%;
+  max-width: 400px;
   background-color: #dddf00;
-  padding: 0px 30px;
+  padding: 30px;
   margin: 20px;
   border-radius: 20px;
+  transition: background-color 0.5s ease; /* Smooth color change */
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
 #quote {
-  font-size: 1.2em;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-style: italic;
 }
 
 #btn {
@@ -40,4 +46,15 @@ body {
   font-size: 1rem;
   color: #f6f7eb;
   background-color: #352208;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+#btn:hover {
+  background-color: #5a3d1a;
+  transform: scale(1.05); /* Slight grow effect */
+}
+
+#btn:active {
+  transform: scale(0.95); /* Click effect */
 }
