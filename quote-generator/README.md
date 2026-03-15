@@ -18,8 +18,3 @@ A sleek, responsive web application that generates inspirational quotes with dyn
 - **HTML5:** Semantic structure.
 - **CSS3:** Flexbox layout and smooth transitions.
 - **JavaScript (ES6):** DOM manipulation and randomization logic.
-
-## 📂 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
