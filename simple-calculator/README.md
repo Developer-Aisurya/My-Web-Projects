@@ -2,7 +2,7 @@
  
 A minimal, elegant calculator built with vanilla HTML, CSS, and JavaScript. Features a dark/light theme toggle, full calculation history, keyboard support, and smooth animations — all with zero dependencies.
  
-![Calculator Preview](preview.png)
+![Calculator Preview](calculator-preview.png)
  
 ---
  
