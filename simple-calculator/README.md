@@ -5,6 +5,11 @@ A minimal, elegant calculator built with vanilla HTML, CSS, and JavaScript. Feat
 ![Calculator Preview](calculator-preview.png)
  
 ---
+
+## 🚀 Live Demo
+[Click here to view the live project](https://developer-aisurya.github.io/My-Web-Projects/simple-calculator/index.html)
+
+---
  
 ## ✨ Features
  
