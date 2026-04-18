@@ -28,6 +28,7 @@ const cssColors = {
   "#ADD8E6": "LightBlue"
 };
 
+
 function getRandomHex() {
   let chars = "0123456789ABCDEF";
   let hex = "#";
