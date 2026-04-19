@@ -25,7 +25,7 @@ Supports both **hex colors** and **named colors**.
  
 ## 🚀 Live Demo
 
-👉 **[View Live Project](https://your-username.github.io/My-Web-Projects/js-projects/color-flipper/index.html)**  
+👉 **[View Live Project](https://Developer-Aisurya.github.io/My-Web-Projects/js-projects/color-flipper/index.html)**  
  
 ---
  
