@@ -20,4 +20,5 @@ TaskFlow Pro is a professional-grade productivity tool that elevates the standar
 - **Progress Tracking:** A visual progress bar to motivate users by showing their daily achievements.
 
 ## 🚀 Preview
-1. [Screenshot](screenshot.png)
+
+![Screenshot](screenshot.png)
