@@ -10,7 +10,7 @@ I believe in learning by building — every project here represents a step forwa
 
 🔗 Explore my work directly:
 
-👉 **[View My Projects](https://Developer-Aisurya.github.io/My-Web-Projects/portfolio.html)**
+👉 **[View My Projects](https://Developer-Aisurya.github.io/My-Web-Projects/FitZone Gym/index.html)**
 
 ---
 
