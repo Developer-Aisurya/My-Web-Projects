@@ -1260,10 +1260,8 @@ header {
   }
 }
 
-/*========== CTA ==========*/
-
 .cta {
-  padding: 120px 0;
+  padding: 120px 0 0;
   background-color: #000;
   overflow: hidden;
 }
@@ -1352,8 +1350,6 @@ header {
   transform: scale(1.03);
 }
 
-/*========== RESPONSIVE ==========*/
-
 @media (max-width: 992px) {
   .cta-wrapper {
     grid-template-columns: 1fr;
@@ -1405,8 +1401,6 @@ header {
     gap: 10px;
   }
 }
-
-/*========== FOOTER ==========*/
 
 .footer {
   background: #0b0b0b;
@@ -1616,8 +1610,6 @@ header {
   }
 }
 
-/*========== SCROLL REVEAL ==========*/
-
 .hero-content,
 .stat-card,
 .about-text,
@@ -1642,39 +1634,26 @@ header {
   transform: translateY(0) !important;
 }
 
-/*========== BACK TO TOP ==========*/
-
 .back-top {
   position: fixed;
   right: 30px;
   bottom: 30px;
-
   width: 55px;
   height: 55px;
-
   border: none;
   border-radius: 50%;
-
   background: var(--primary);
-
   color: #fff;
-
   font-size: 1.2rem;
-
   cursor: pointer;
-
   opacity: 0;
-
   visibility: hidden;
-
   transition: 0.35s;
-
   z-index: 999;
 }
 
 .back-top.show {
   opacity: 1;
-
   visibility: visible;
 }
 
@@ -1687,28 +1666,21 @@ header {
 .price-btn,
 .btn-outline {
   position: relative;
-
   overflow: hidden;
 }
 
 .ripple {
   position: absolute;
-
   border-radius: 50%;
-
   transform: scale(0);
-
   background: rgba(255, 255, 255, 0.35);
-
   animation: ripple 0.6s linear;
-
   pointer-events: none;
 }
 
 @keyframes ripple {
   to {
     transform: scale(4);
-
     opacity: 0;
   }
 }
